@@ -5,8 +5,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Future+dev+under+construction;Learning+something+new+every+day)](https://git.io/typing-svg)
-
 <img src="https://img.shields.io/badge/Jundiaí,SP-📍-A855F7?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/ETEC- Systems Development-22c55e?style=flat&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=vikishimoto&color=A855F7&style=flat&label=Profile+Views" />
@@ -15,7 +13,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 About me
 
 ```javascript
 const vitoria = {
