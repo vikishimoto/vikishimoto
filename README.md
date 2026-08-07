@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="./github-header-banner-animated.svg" alt="Hey, I'm Vitória">
+  <img src="./github-banners/github-header-banner-animated.svg" alt="Hey, I'm Vitória" width="100%">
 </p>
-<div align="center">
 
-<div align="center">
+<br>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
-
-## 👩‍💻 About me
+<p align="center">
+  <img src="./github-banners/banner-about.svg" alt="About Me" width="100%">
+</p>
 
 ```javascript
 const vitoria = {
@@ -18,11 +15,13 @@ const vitoria = {
   school: "ETEC · Systems Development",
   contact: "kishimoto.vitoria@gmail.com"
 };
-
 ```
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
-## 🛠️ Tech Stack & Tools
+<br>
+
+<p align="center">
+  <img src="./github-banners/banner-stack.svg" alt="Tech Stack & Tools" width="100%">
+</p>
 
 <div align="center">
 
@@ -33,16 +32,11 @@ const vitoria = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
+<br>
 
-## 📊GitHub Stats
-
-<div align="center">
-
-
-
-
-</div>
+<p align="center">
+  <img src="./github-banners/banner-stats.svg" alt="GitHub Stats" width="100%">
+</p>
 
 <div align="center">
 
@@ -50,16 +44,21 @@ const vitoria = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
+<br>
 
-## Currently learning
+<p align="center">
+  <img src="./github-banners/banner-learning.svg" alt="Currently Learning" width="100%">
+</p>
 
 - 📐 Logic programming & algorithms
 - 🌐 Creating web pages using HTML & CSS
 - 🎯 Developing practical projects for my academic portfolio
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
-## ➤ Find me here
+<br>
+
+<p align="center">
+  <img src="./github-banners/banner-connect.svg" alt="Find me here" width="100%">
+</p>
 
 <div align="center">
 
@@ -69,9 +68,3 @@ const vitoria = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikishimoto)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
-
-</div>
-
-
