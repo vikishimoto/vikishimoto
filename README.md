@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-banner-animated (1).svg" alt="Hey, I'm Vitória">
+  <img src="./github-header-banner-animated.svg" alt="Hey, I'm Vitória">
 </p>
 <div align="center">
 
