@@ -43,7 +43,7 @@ const vitoria = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikishimoto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22c55e&text_color=c9d1d9" />
+
 
 
 </div>
@@ -74,10 +74,6 @@ const vitoria = {
 </div>
 
 ---
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=500&height=45&lines=faith+·+growth+·+purpose)](https://git.io/typing-svg)
 
 </div>
 
