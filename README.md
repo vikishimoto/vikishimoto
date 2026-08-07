@@ -5,10 +5,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Jundiaí,SP-📍-A855F7?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ETEC- Systems Development-22c55e?style=flat&labelColor=0d1117" />
-<img src="https://komarev.com/ghpvc/?username=vikishimoto&color=A855F7&style=flat&label=Profile+Views" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
