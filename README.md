@@ -11,7 +11,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
 ## 👩‍💻 About me
 
@@ -22,9 +22,9 @@ const vitoria = {
   school: "ETEC · Systems Development",
   contact: "kishimoto.vitoria@gmail.com"
 };
-```
 
----
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -37,7 +37,7 @@ const vitoria = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
 ## 📊GitHub Stats
 
@@ -54,14 +54,14 @@ const vitoria = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
 ## Currently learning
 
 - 📐 Logic programming & algorithms
 - 🌐 Creating web pages using HTML & CSS
 - 🎯 Developing practical projects for my academic portfolio
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
 ## ➤ Find me here
 
@@ -69,11 +69,12 @@ const vitoria = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitoria-kishimoto)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishimoto.vitoria@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vii.kishimoto)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikishimoto)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:22c55e&height=3&section=footer" width="100%">
 
 </div>
 
