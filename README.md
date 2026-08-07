@@ -8,6 +8,9 @@
   <img src="./github-banners/banner-about.svg" alt="About Me" width="100%">
 </p>
 
+<table align="center">
+<tr><td>
+  
 ```javascript
 const vitoria = {
   name: "Vitória Kishimoto",
@@ -16,6 +19,8 @@ const vitoria = {
   contact: "kishimoto.vitoria@gmail.com"
 };
 ```
+</td></tr>
+</table>
 
 <br>
 
