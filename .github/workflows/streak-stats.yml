@@ -1,0 +1,38 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:        
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate streak stats image
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: vikishimoto
+          theme: tokyonight
+          hide_border: true
+          background: 0D1117
+          ring: A855F7
+          fire: 22C55E
+          currStreakLabel: A855F7
+          sideLabels: C9D1D9
+          dates: C9D1D9
+          type: svg
+          output: github-banners/streak-stats.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-banners/streak-stats.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update streak stats"
+          git push
