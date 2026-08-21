@@ -44,9 +44,7 @@ const vitoria = {
 </p>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vikishimoto&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=22c55e&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
-
+  <img src="./github-banners/streak-stats.svg" alt="GitHub Streak" width="100%">
 </div>
 
 <br>
