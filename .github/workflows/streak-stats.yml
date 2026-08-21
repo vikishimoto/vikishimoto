@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate streak stats image
-        uses: DenverCoder1/github-readme-streak-stats@master
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           user_id: vikishimoto
           theme: tokyonight
